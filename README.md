@@ -1,2 +1,2 @@
 # Radient_Descent
-Radient Descent code
+Radient Descent exercise code
